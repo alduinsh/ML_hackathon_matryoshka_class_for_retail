@@ -1,0 +1,62 @@
+{
+  "general": {
+    "dress": 198,
+    "t-shirts": 517,
+    "jeans_jeggins_arqo": 447,
+    "outerwear": 257
+  },
+  "details": {
+    "dress": {
+      "Ostin": 5,
+      "Domasha ": 3,
+      "A-A Awesome ": 5,
+      "Galverini ": 3,
+      "Oodji ": 6,
+      "Zolla ": 6,
+      "A.Karina ": 4,
+      "Zara ": 3,
+      "Mango ": 3
+    },
+    "t-shirts": {
+      "Reebok": 3,
+      "TVOE": 1,
+      "FUTTBOLKI": 1,
+      "VEGA": 1,
+      "Mechtay": 1,
+      "PN Market": 1,
+      "ANABIOSIS SLEEP OF REASON": 1,
+      "ooodji": 3,
+      "10 out of 10": 1,
+      "Miss Robot": 1,
+      "VVMARKET": 1
+    },
+    "jeans_jeggins_arqo": {
+      "Urban Street": 2,
+      "Chicci": 2,
+      "L.A.F": 1,
+      "Bershka": 1,
+      "JECCESS": 1,
+      "TOM TAILOR": 1,
+      "YSUM": 1,
+      "&UO": 2,
+      "LINESIDE": 1,
+      "Teimour": 1
+    },
+    "outerwear": {
+      "Tvoe": 7,
+      "Million_Friends": 2,
+      "RockMerch": 1,
+      "Abby": 5,
+      "Bershka": 5,
+      "GEOX": 3,
+      "Sainy": 3,
+      "Adidas": 6,
+      "KALYAEV": 5,
+      "TWENTY": 3,
+      "Teri_Fellini": 2,
+      "Concept_Club": 5,
+      "Zimaskoro": 2,
+      "Charuel": 2
+    }
+  }
+}
